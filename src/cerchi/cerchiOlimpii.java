@@ -89,19 +89,19 @@ public class cerchiOlimpii extends javax.swing.JFrame {
         }
         cerchio.setColor(Color.red);
         for (int i = 0; i < 20; i++) {
-            cerchio.drawOval(150-i/2, 75-i/2, 100+i, 100+i);
+            cerchio.drawOval(140-i/2, 75-i/2, 100+i, 100+i);
         }
         cerchio.setColor(Color.blue);
         for (int i = 0; i < 20; i++) {
-            cerchio.drawOval(175-i/2, 50-i/2, 100+i, 100+i);
+            cerchio.drawOval(195-i/2, 50-i/2, 100+i, 100+i);
         }
         cerchio.setColor(Color.yellow);
          for (int i = 0; i < 20; i++) {
-            cerchio.drawOval(230-i/2, 75-i/2, 100+i, 100+i);
+            cerchio.drawOval(260-i/2, 75-i/2, 100+i, 100+i);
         }
           cerchio.setColor(Color.green);
            for (int i = 0; i < 20; i++) {
-            cerchio.drawOval(275-i/2, 50-i/2, 100+i, 100+i);;
+            cerchio.drawOval(315-i/2, 50-i/2, 100+i, 100+i);;
         }
         
         
